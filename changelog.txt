@@ -1,0 +1,20 @@
+*** DEV VERSION ***
+V0.1
+-First version
+V0.2
+-Added new function, now we can read the banner file and extract useful information like game title, compagny name, and FR game description !
+V0.3
+-Added a function to extract all game description like gameDescriptionFR(); , gameDescriptionDE(); this function return a string
+-Redesign source code of BNR_EU & BNR_US structure, now he's more pretty ! :D
+-Added function to extract the DOL executable file information
+V0.4
+-Redesign of the source code, patch buffer overflow of two function, add new function like getBNRType() and isValid();
+-Add source code comment and doc comment to help us
+-Start the hard work to extract the Banner tiny image
+V0.5
+-Redesign of source code (made a header and a implementation file per class) !
+-
+
+*** ALPHA VERSION ***
+*** BETA VERSION ***
+*** STABLE VERSION ***
